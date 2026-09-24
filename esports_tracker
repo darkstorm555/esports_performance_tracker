@@ -1,0 +1,13 @@
+{
+    "match_id": "DS-8472-BG",
+    "map": "Erangel",
+    "duration_minutes": 28,
+    "squad_name": "Darkstorm",
+    "placement": 1,
+    "players": [
+        {"name": "Player1", "kills": 8, "deaths": 1, "damage": 1250, "assists": 3},
+        {"name": "Player2", "kills": 2, "deaths": 2, "damage": 450, "assists": 5},
+        {"name": "Player3", "kills": 5, "deaths": 0, "damage": 890, "assists": 2},
+        {"name": "Player4", "kills": 1, "deaths": 1, "damage": 300, "assists": 6}
+    ]
+}
